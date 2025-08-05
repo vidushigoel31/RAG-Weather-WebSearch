@@ -25,3 +25,6 @@ openai  # required for AzureChatOpenAI to function
 # Testing
 pytest
 responses
+
+#websearch
+duckduckgo-search
