@@ -1,0 +1,27 @@
+# Core
+streamlit
+requests
+python-dotenv
+urllib3
+
+# PDF processing
+PyPDF2
+
+# Embeddings and Vector Store
+sentence-transformers
+chromadb
+
+# LangChain Ecosystem
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-openai
+langsmith
+
+# Azure LLM
+openai  # required for AzureChatOpenAI to function
+
+# Testing
+pytest
+responses
