@@ -30,7 +30,7 @@ from langsmith import traceable
 # Set tracer globally
 # set_tracer(LangChainTracer())
 import os
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "your-api-key-here"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 os.environ["LANGCHAIN_PROJECT"] = "weather-rag-assistant"
 # from langchain_core.tracers import tracing_v2_enabled
